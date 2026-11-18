@@ -1,0 +1,22 @@
+{
+	"name": "tptm",
+	"displayName": "TPTM",
+	"version": "1.0.0",
+	"description": "Work with your TPTM homebuilder organization: communities, lots, schedules, tasks, trade partners, work orders and reports, within your own TPTM permissions.",
+	"author": { "name": "TPTM" },
+	"homepage": "https://help.tptm.pro",
+	"repository": "https://github.com/tptm-dev/tptm-plugin",
+	"logo": "assets/logo.svg",
+	"keywords": [
+		"tptm",
+		"construction",
+		"homebuilder",
+		"scheduling",
+		"trade-partners",
+		"work-orders",
+		"mcp"
+	],
+	"category": "integrations",
+	"tags": ["construction", "scheduling", "mcp"],
+	"mcpServers": "./mcp.json"
+}

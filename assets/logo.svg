@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="96" fill="#00162a"/>
+  <g fill="none" stroke-width="44" stroke-linecap="butt" stroke-linejoin="miter">
+    <path id="roof" d="M72 240 L214 98" stroke="#ffffff"/>
+    <path id="wall" d="M147 175 L147 383 L348 383" stroke="#ffffff"/>
+    <path id="check" d="M208 213 L280 285 L424 141" stroke="#11cfe8"/>
+  </g>
+</svg>

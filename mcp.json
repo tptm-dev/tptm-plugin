@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"tptm": {
+			"type": "http",
+			"url": "https://tptm.pro/mcp"
+		}
+	}
+}
